@@ -1,0 +1,9 @@
+* swap-bytes
+
+Efficient endianness conversion for SBCL
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/sionescu/swap-bytes.git |
+| commit  | 43ab141                                        |
+| systems | swap-bytes                                     |
+|---------+------------------------------------------------|
